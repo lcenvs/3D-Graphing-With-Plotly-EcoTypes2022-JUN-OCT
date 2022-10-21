@@ -1,2 +1,2 @@
 # 3D-Graphing-With-Plotly-EcoTypes2022-TOP8
-Top eight Ecotypes plot, from Fa22 data (n = 1123)
+Top eight Ecotypes plot, from Sp22/Fa22 data (n = 2115)
